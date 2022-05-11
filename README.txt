@@ -22,3 +22,9 @@ Tic-Tac-Toe:
  
 Hang Man:
  Classic Hang Man.
+ 
+ 
+# TODOs:
+# better readibility
+# update coding style
+# combine all games so it would be playable on one executable
