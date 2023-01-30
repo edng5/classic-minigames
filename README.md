@@ -33,7 +33,7 @@ Some high school game projects I created:
  Classic Hang Man.
  
  
- TODOs:
+ # TODOs:
  
  better readibility
  
