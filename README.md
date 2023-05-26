@@ -1,4 +1,4 @@
-# Minigames by Edward Ng (2015 - 2018)
+# Minigames by Edward Ng (2017 - 2018)
 
 Some high school game projects I created:
 
