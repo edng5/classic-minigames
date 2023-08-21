@@ -27,14 +27,20 @@ I created resource files using Photoshop to input into draw panel where I was ab
  Classic Pong and Brick Breaker packaged in the same game.
 
  Uses Java draw panel to animate the ball, paddles and bricks. Uses shape collisions to detect when the ball collides with an object.
+
+ ![](preview/pong.jpg)
  
 # Tic-Tac-Toe
  Classic two player Tic-Tac-Toe.
 
  Uses a Tkinter GUI that allows players to select buttons that mark it either 'X' or 'O' based on who's turn. The player wins when their marker lines up three in a row and is checked by basic if-conditions.
+
+ ![](preview/tictactoe.jpg)
  
 # Hang Man
- Classic Hang Man, where the player can guess words from a word bank.
+ Classic Hang Man, where the player can guess words in a word bank from a specific category.
 
  Uses a Java Swing GUI where the players can guess letters that will grey out to avoid repetition. The result of the guess will show as an added part to the hang man or the letter to fill in the blanks. Uses basic list and control flows to compare results and win conditions.
+
+ ![](preview/hangman.jpg)
 
