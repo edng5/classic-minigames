@@ -24,7 +24,7 @@ I created resource files using Photoshop to input into draw panel where I was ab
  ![](preview/fishy_preview.jpg)
  
 # Pong and Brick Breaker
- Classic Pong and Brick Breaker packaged in the same game.
+ Classic Pong and Brick Breaker packaged in the same game. As the player progresses, the difficulty increases.
 
  Uses Java draw panel to animate the ball, paddles and bricks. Uses shape collisions to detect when the ball collides with an object.
 
